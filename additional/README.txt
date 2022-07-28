@@ -32,6 +32,8 @@ Overview
 	  scroll as normal, so nothing changes there).
 
 	  * Special thanks to @miorel + @pieterv of Facebook for "normalizeWheel()" :)
+	  
+	  
 
 	- Scroll Zones: Users can hover the mouse cursor on the left or right edges of the page
 	  to automatically scroll in either direction.
@@ -41,7 +43,6 @@ Overview
 
 	Note that any (or all) of these scroll-assist features can be turned off (and in some
 	cases customized). See the top of assets/js/main.js for more information.
-
 
 Span Modifiers
 ==============
@@ -347,3 +348,5 @@ Major Elements
 					</a>
 				</div>
 			</div>
+			
+			
